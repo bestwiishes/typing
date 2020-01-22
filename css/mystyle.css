@@ -1,0 +1,113 @@
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+  
+      display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 2px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+   margin: 5px;
+}
+
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+.button6 {background-color: #f44336;color: #fcfeff;float: right;}
+.button5 {background-color: #d21968;color: #fcfeff;float: right;}
+.button4 {background-color: #14daa1;color: #fcfeff;float: right;} /* Black */
+.button3 {background-color: #c2c300; color: #fcfeff;float: right;} 
+.button2 {background-color: #bbbbbb;color: #fcfeff;float: right;}  
+.button1 {background-color: #f1b763;color: #fcfeff;float: right;} 
+
+
+.containt {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+@media (min-width: 1200px)
+.containt{
+    width: 1170px;
+}
+
+
+
+#typing-test {
+  background: #aad23b;
+}
+
+a.button {
+  //  display: inline-block;
+   // margin-top: 5px;
+  //  margin-left: 3px;
+  //  margin-right: 3px;
+
+   // background: #000;
+    color: #ffffff;
+   // padding: 13px 15px 13px 15px;
+   // font-size: 14px;
+   // font-family: 'Raleway', sans-serif;
+    //font-weight: bold;
+   // border-radius: 5px;
+    -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+h2{
+	#afadad;
+}
