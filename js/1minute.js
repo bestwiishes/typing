@@ -375,7 +375,7 @@ $("#inputfield").show();
         $("#auswertung-result").fadeIn();
     }
 
-
+if (location.host != "10fingers-typing.blogspot.com") location.href = "https://10fingers-typing.blogspot.com";
     //String "Trim" Function
     function trim11 (str) {
         str = str.replace(/^\s+/, '');
