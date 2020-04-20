@@ -1,0 +1,83 @@
+[
+  {
+    "question": "How does Coronavirus transmit?",
+    "choice1": "When a person sneezes or cough, droplets spread in the air or fall on the ground and nearby surfaces.",
+    "choice2": "If another person is nearby and inhales the droplets or touches these surfaces and further touches his face, eyes or mouth, he or she can get an infection.",
+    "choice3": "If the distance is less than 1 meter from the infected person.",
+    "choice4": "All the above are correct.",
+    "answer": 4
+  },
+  {
+    "question": "What happens to a person suffering from COVID-19?",
+    "choice1": "Around 80% of the people will require no treatment as such and will recover on their own.",
+    "choice2": "Around <20% or a small proportion may need hospitalisation.",
+    "choice3": "A very small proportion basically suffering from chronic illness may need admission in an Intensive Care Unit (ICU).",
+    "choice4": " All the above are correct",
+    "answer": 4
+  },
+  {
+    "question": "In which age group the COVID-19 spreads?",
+    "choice1": "COVID-19 occur in all age groups.",
+    "choice2": "Coronavirus infection is mild in children.",
+    "choice3": "Older person and persons with pre-existing medical conditions are at high risk to develop serious illness.",
+    "choice4": " All the above are correct",
+    "answer": 4
+  },
+   {
+    "question": "What is Coronavirus?",
+    "choice1": "It is a large family of viruses.",
+    "choice2": "It belongs to the family of Nidovirus.",
+    "choice3": "Both A and B are correct",
+    "choice4": "Only A is correct.",
+    "answer": 3
+  }, {
+    "question": "World Health Organisation on 11 February, 2020 announced an official name for the disease that is causing the 2019 novel coronavirus outbreak? What is the new name of the disease?",
+    "choice1": "COVID-19",
+    "choice2": "COVn-19",
+    "choice3": "COnV-20",
+    "choice4": " COnVID-19",
+    "answer": 1
+  }, {
+    "question": "The first case of novel coronavirus was identified in .....",
+    "choice1": "Beijing",
+    "choice2": "Shanghai",
+    "choice3": "Wuhan, Hubei ",
+    "choice4": "Tianjin",
+    "answer": 3
+  }, {
+    "question": "Which of the following diseases are related to coronavirus?",
+    "choice1": "MERS",
+    "choice2": "SARS",
+    "choice3": "Both A and B",
+    "choice4": "Neither A nor B",
+    "answer": 3
+  }, {
+    "question": "Mild Symptoms of Novel coronavirus are ?",
+    "choice1": "Fever",
+    "choice2": "Cough",
+    "choice3": "Shortness of breath",
+    "choice4": "All the above",
+    "answer": 4
+  },{
+    "question": "From where coronavirus got its name?",
+    "choice1": "Due to their crown-like projections.",
+    "choice2": "Due to their leaf-like projections.",
+    "choice3": "Due to their surface structure of bricks.",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "What are the precautions that need to be taken to protect from the coronavirus?",
+    "choice1": "Cover your nose and mouth when sneezing.",
+    "choice2": "Add more garlic into your diet.",
+    "choice3": " Visit your doctor for antibiotics treatment",
+    "choice4": "Wash your hands after every hour.",
+    "answer": 1
+  },{
+    "question": "",
+    "choice1": "",
+    "choice2": "",
+    "choice3": "",
+    "choice4": "",
+    "answer": 4
+  }
+]
