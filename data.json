@@ -1,30 +1,38 @@
-const petsData = [
+[
   {
-    name: "Purrsloud",
-    species: "Cat",
-    favFoods: ["wet food", "dry food", "<strong>any</strong> food"],
-    birthYear: 2016,
+    "userId": 1,
+    "id": 10,
+	"name": "Purrsloud",
+    "species": "Cat",
+    "favFoods": ["wet food", "dry food", "<strong>any</strong> food"],
+    "birthYear": 2016,
     photo: "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
   },
   {
-    name: "Barksalot",
-    species: "Dog",
-    birthYear: 2008,
+    "userId": 2,
+    "id": 20,
+	"name": "Barksalot",
+    "species": "Dog",
+    "birthYear": 2008,
     photo: "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
   },
   {
-    name: "Meowsalot",
-    species: "Cat",
-    favFoods: ["tuna", "catnip", "celery"],
+    "userId": 3,
+    "id": 30,
+    "name": "Meowsalot",
+    "species": "Cat",
+    "favFoods": ["tuna", "catnip", "celery"],
     birthYear: 2012,
     photo: "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
   },
     {
-    name: "Meowsalot",
-    species: "Cat",
-    favFoods: ["tuna", "catnip", "celery"],
+   "userId": 4,
+    "id": 40,
+   "name": "Meowsalot",
+    "species": "Cat",
+    "favFoods": ["tuna", "catnip", "celery"],
     birthYear: 2012,
     photo: "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
   }
 
-];
+]
